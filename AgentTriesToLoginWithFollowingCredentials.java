@@ -1,7 +1,7 @@
 package kf.csc.fixture;
 
 import java.rmi.RemoteException;
-
+//comment
 import kf.core.logging.FitnesseLoggingErrorException;
 import kf.core.logging.Logger;
 import kf.csc.SessionController;
